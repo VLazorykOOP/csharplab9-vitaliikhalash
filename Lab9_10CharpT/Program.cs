@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Lab#9  and Lab#10");
+Console.WriteLine("Lab#9  or  Lab#10");
 //  За бажанням студента для задач можна створювати консольний проект або WinForm
 // Бажано для задач лаб. робіт створити окремі класи
 // Виконання  виконати в стилі багатозаданості :
